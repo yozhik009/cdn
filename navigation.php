@@ -1,0 +1,1 @@
+<nav data-role="navbar"class="idTabs"><ul><li><a href="#compiler">Компилятор</a></li><li><a href="#compiler"id="collab">Сотрудничать</a></li><li><a href="#compiler"id="commit">Сохранить код</a></li></ul></nav>
